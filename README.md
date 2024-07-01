@@ -1,3 +1,3 @@
 # apnacollege-demo
-this is for practice 
-authos - rafayafridi
+this is for practice
+author - rafayafridi
